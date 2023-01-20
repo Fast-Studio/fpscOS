@@ -8,4 +8,4 @@ Q:为什么fpscOS的Bar是通过单击来返回桌面的？ A:现在大部分手
 受支持的系统：fpscOS X 10.6.4、fpscOS X 10.9.x、fpscOS X 10.10、fpscOS X 10.11
 
 关于
-©CopyRights By Fast Software Development Team 2017-2022法斯特软件开发团队保留一切权力。
+©CopyRights By Fast Software Development Team 2017-2023法斯特软件开发团队保留一切权力。
