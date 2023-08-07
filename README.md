@@ -3,3 +3,5 @@
 
 
 单击Releases以下载fpscOS。
+
+fpscOS的最终版本是fpscOS 12.0.1，敬请期待 fastOS。
