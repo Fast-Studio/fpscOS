@@ -1,9 +1,10 @@
-关于
-©CopyRights By Fast Studio 2017-2023法斯特工作室保留一切权力。
+ABOUT
+©CopyRights By Fast Studio 2017-2023
 
-
-单击Releases以下载fpscOS。
+CN:单击Releases以下载fpscOS。
 
 fpscOS的最终版本是fpscOS 12.0.1,请转到fastOS源下载fastOS。
+
+EN:Click Releases to download fpscOS.
 
 The final version of fpscOS is 12.0.1,please turn to fastOS repository.
